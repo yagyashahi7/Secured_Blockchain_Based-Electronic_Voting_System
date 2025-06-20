@@ -4,7 +4,7 @@ This repository presents our 3rd year EEE (Electrical and Electronics Engineerin
 
 ## 🧠 Project Summary 
 
-The system integrates a fingerprint scanner, LCD, physical voting buttons, and a Raspberry Pi with blockchain protocols. Fingerprints are hashed and verified before votes are encrypted and transmitted to the Ethereum blockchain (via Ganache) in real-time. This ensures data cannot be tampered with and eliminates single points of failure — improving both resilience and trust in the voting process.
+The system integrates a fingerprint scanner, LCD, physical voting buttons, and a Raspberry Pi with blockchain protocols. Fingerprints are hashed and verified before votes are encrypted and transmitted to the Ethereum blockchain (via Ganache) in real-time. This ensures data cannot be tampered with and eliminates single points of failure,improving both resilience and trust in the voting process.
 
 ## 🔧 How to Set Up and Run the Project
 
